@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry kind="lib" path="/org.eclipse.jgit/target/org.eclipse.jgit-0.12.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/d032780/.m2/repository/com/jcraft/jsch/0.1.41/jsch-0.1.41.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
